@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-* [tutorial](/tutorial)
+* [tutorial](/climate-change-weather-station/tutorial)
 
 
 
