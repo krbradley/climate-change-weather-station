@@ -1,4 +1,4 @@
-### @activities true
+// ### @activities true
 
 # Climate Change Weather Station Tutorial
 
