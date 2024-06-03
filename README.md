@@ -1,6 +1,11 @@
 
 > Open this page at [https://krbradley.github.io/climate-change-weather-station/](https://krbradley.github.io/climate-change-weather-station/)
 
+## Tutorials
+
+* [tutorial](/tutorial)
+
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
