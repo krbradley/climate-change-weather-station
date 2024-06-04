@@ -1,3 +1,5 @@
+### @activities true
+
 # Climate Change Weather Station Tutorial
 
 ## Introduction
