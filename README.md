@@ -4,7 +4,7 @@
 ## Tutorials
 
 * [tutorial](/climate-change-weather-station/tutorial)
-* [tutorial in editor](https://makecode.microbit.org/#tutorial:github:krbradley/climate-change-weather-station/)
+* [tutorial in editor](https://makecode.microbit.org/#tutorial:github:krbradley/climate-change-weather-station/tutorial)
 
 
 
