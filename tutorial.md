@@ -69,8 +69,10 @@ loops.everyInterval(60000, function () {
 })
 ```
 
-## Congratulations, you did it!
-You can improve your Climate Change Tracker by adding a water level sensor. Learn how to do it here.
+## Congratulations, you did it! @unplugged
+What else could you track to improve your Climate Change Weather Station? Learn more about Climate Change here.
+
+
     
 
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
